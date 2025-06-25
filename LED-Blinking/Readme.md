@@ -10,9 +10,19 @@
   - Breadboard
   - Wires
     
-# ALGORITHM:
+# ALGORITHM: (A)
   1. Start 
   2. Set up the pin 13 as output 
+  3. Start the infinite loop 
+  4. Turn the LED on by setting the voltage level to HIGH using digitalWrite function. 
+  5. Wait for one second using delay function. 
+  6. Turn the LED off by setting the voltage level to LOW using digitalWrite function. 
+  7. Wait for one second using delay function. 
+  8. End
+
+# ALGORITHM: (B)
+  1. Start 
+  2. Set up the pin 9 as output 
   3. Start the infinite loop 
   4. Turn the LED on by setting the voltage level to HIGH using digitalWrite function. 
   5. Wait for one second using delay function. 
